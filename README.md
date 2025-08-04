@@ -6,7 +6,7 @@ Professional web developer with diverse experience in web development technologi
 ## 🚀 Portfolio
 Explore my latest web development projects, showcasing my expertise in front-end and back-end technologies, user interface design, and performance optimization.
 
-<a href="https://sohail-koutari.vercel.app/" target="_blank">Visit My Portfolio</a>
+<a href="https://sohailkoutari.com" target="_blank">Visit My Portfolio</a>
 
 
 ## 📚 Writing
