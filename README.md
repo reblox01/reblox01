@@ -149,7 +149,7 @@ Animation & modeling
 <h3>🎮 Game Development</h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" style="border-radius: 10px;"><br>
-<a href="https://github.com/reblox01" target="_blank">
+<a href="http://github.com/reblox01/eggquest" target="_blank">
 <img src="https://img.shields.io/badge/View%20Games-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
