@@ -87,12 +87,12 @@ Animation & modeling
 
 ### **Backend Development**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,fastapi,laravel,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,fastapi,laravel" />
 </p>
 
 ### **Database & Cloud**
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,aws,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,aws,docker" />
 </p>
 
 ### **Tools & Design**
