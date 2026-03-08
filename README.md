@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 👨‍💻 Sohail Koutari | Full Stack Developer
+# 👨‍💻 Sohail Koutari | Full Stack Developer & Cybersecurity engineering student
 
 **Crafting innovative digital solutions with modern technologies**
 
