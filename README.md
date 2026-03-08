@@ -22,7 +22,7 @@ I'm a passionate **Full Stack Developer** with a knack for creating seamless dig
 ```javascript
 const AboutMe = {
     name: "Sohail Koutari",
-    role: "Full Stack Developer",
+    role: "Full Stack Developer & Cybersecurity engineering student",
     location: "🌍 Available Worldwide",
     code: ["JavaScript", "TypeScript", "Python", "PHP"],
     technologies: {
