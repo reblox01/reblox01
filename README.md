@@ -14,7 +14,7 @@
 I'm a passionate **Full Stack Developer** with a knack for creating seamless digital experiences. My journey spans across web development, 3D modeling, game development, and user experience design. I thrive on solving complex problems and building applications that make a difference.
 
 - 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm currently learning **AI/ML integration** and **Web3 technologies**
+- 🌱 I'm currently learning **CyberSecurity & Network infrastructure**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, 3D modeling, or game development**
 - ⚡ Fun fact: **I love turning coffee into code** ☕
